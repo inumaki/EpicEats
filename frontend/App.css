@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.img-container { 
+    width: fit-content;
+}
+
+.right-column {
+    margin-top: -25rem;
+    position: sticky;
+    left: 40rem;
+    width: min-content;
+}
+
+.card {
+    width: 125%;
+}
