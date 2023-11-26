@@ -11,12 +11,14 @@ Here is the link for **postman** collection : https://api.postman.com/collection
 >[!NOTE]
 >Dont't forget to add Carousel Image using carousel post api, you can upload image in form of key - value pair in body as shown below : 
 
-![image](https://github.com/inumaki/EpicEats/assets/69989774/b39e0971-b8d2-46aa-a83f-2177ec7ab55c)
+![image](https://github.com/inumaki/EpicEats/assets/69989774/00a58351-f5a8-4f54-b503-0c48fb879d01)
+
 
 
 If everything done right you will get something like this : 
 
-![image](https://github.com/inumaki/EpicEats/assets/69989774/c4aec9f7-07f9-4ae3-967f-6c681ccee938)
+![image](https://github.com/inumaki/EpicEats/assets/69989774/255cdda3-ba02-4eb9-a900-e111c509ae33)
+
 
 
 
